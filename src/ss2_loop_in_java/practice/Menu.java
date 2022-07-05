@@ -45,3 +45,5 @@ public class Menu {
         }
     }
 }
+    int a = (int)Math.round(12 * Math.random()) + 5;
+    System.out.println(a);
